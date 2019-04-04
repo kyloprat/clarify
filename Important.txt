@@ -1,0 +1,2 @@
+**Important**
+Local Database Server has been used. Hence, Some of the features might not work,
